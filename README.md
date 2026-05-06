@@ -184,7 +184,7 @@ A production-ready headless data grid library published to npm. Built on a `@lij
 I'm always up for a conversation about full-stack architecture, music tech, design systems, or AI tooling.
 
 **Email** · [lijishwilson@gmail.com](mailto:lijishwilson@gmail.com)  
-**Portfolio** · [lijish-portfolio.vercel.app](https://lijish-portfolio.vercel.app/)  
+**Portfolio** · [lijishpf.vercel.app](https://lijishpf.vercel.app/)  
 **LinkedIn** · [Lijish Wilson S](https://linkedin.com/in/lijish-wilson-s)
 
 ---
